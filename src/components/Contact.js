@@ -6,6 +6,7 @@ function Contact() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
+  const [subject, setSubject] = useState("");
   const [errors, setErrors] = useState({});
 
   const validateForm = () => {
@@ -32,6 +33,7 @@ function Contact() {
       setName("");
       setEmail("");
       setMessage("");
+      setSubject("");
     }
   };
 
@@ -72,6 +74,21 @@ function Contact() {
                   />
                   {errors.email && (
                     <div className="text-danger">{errors.email}</div>
+                  )}
+                </div>
+                <div className="mb-3">
+                  <label className="form-label">Subject</label>
+                  <input
+                    type="text"
+                    className="form-control"
+                    value={subject}
+                    onChange={(e) => setSubject(e.target.value)}
+                    name="user_subject"
+                    placeholder="Subject"
+                    required
+                  />
+                  {errors.subject && (
+                    <div className="text-danger">{errors.subject}</div>
                   )}
                 </div>
                 <div className="mb-3">
