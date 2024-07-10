@@ -1,0 +1,86 @@
+.Contact {
+    padding: 50px 0;
+    margin-top: 40px;
+    width: 100%;
+    background-image: url('../images/contact.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+     min-height: 100vh; 
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.container{
+    overflow-y: hidden;
+}
+
+.contactTitle {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.contactDesc {
+    font-size: 1.2rem;
+    color: black;
+    font-weight: 400;
+}
+
+.formBackground {
+    background-image: url('../images/contact.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.9;
+    /* Set opacity for the background image */
+    border-radius: 0.2rem;
+    padding: 30px;
+}
+
+.contactCard {
+    max-width: 600px;
+     margin: 0 auto; 
+    width: 100%;
+    border-radius: 0.2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contactCard .card-body {
+    background: rgba(255, 255, 255, 0.8);
+    /* Make the background slightly transparent */
+    border-radius: 0.2rem;
+    padding: 30px;
+}
+
+.contactForm .form-control {
+    border-radius: 0.25rem;
+    border: 1px solid #052922;
+}
+
+.contactForm .form-label{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: bold;
+}
+
+.contactForm .btn {
+    width: 40%;
+    border-radius: 6px;
+    padding: 0.25rem 0.5rem;
+}
+
+.links {
+    padding-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    object-fit: cover;
+    margin-right: 15px;
+}

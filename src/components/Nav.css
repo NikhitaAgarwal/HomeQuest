@@ -1,0 +1,46 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    height: 80px;
+    /* line-height: 80px; */
+    /* Ensure the navbar is above other elements */
+}
+/* .bg-custom {
+    background-color: white;
+} */
+
+.navbar .navbar-brand{
+    color: rgb(233, 35, 35);
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 20px;
+    
+}
+.navbar .nav-item .nav-link{
+    color: rgb(41, 41, 179);
+    font-weight: bold;
+    font-size: larger;
+    font-family: cursive;
+    margin: 0 20px;
+}
+
+.navbar-nav{
+        display: flex;
+            justify-content: center;
+            width: 100%;
+
+}
+.navbar-collapse {
+    justify-content: center;
+}
+
+.navbar-toggler {
+    margin-left: auto;
+}
+
+.nav-link.active {
+    border-top: 2px solid rgb(211, 25, 34);
+    /* Underline for active link */
+}
