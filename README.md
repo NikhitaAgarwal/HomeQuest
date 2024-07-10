@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+Project Name: Home Quest
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technologies Used:
+React.js: For building the user interface and managing the state of the application.
+Bootstrap: For styling the application and ensuring a responsive layout.
+Project Structure
+The project is structured into a components folder, which contains the following key pages:
 
-## Available Scripts
+Home Page (Home.js):
+Purpose: Provides an overview and basic details about the company.
+Functionality:
+Displays a welcome message.
+Introduces the company.
+May include a brief summary of services offered.
+Styling: Utilizes Bootstrap for layout and styling to ensure a professional and responsive design.
 
-In the project directory, you can run:
+About Page (About.js):
+Purpose: Offers detailed information about the company, its mission, and its team members.
+Functionality:
+Contains sections describing the company's history, mission statement, and values.
+Introduces team members with their roles and brief bios.
+Styling: Uses Bootstrap components to create a clean, organized, and visually appealing layout.
+Property Page (Property.js):
 
-### `npm start`
+Purpose: Lists different real estate properties available for sale or rent, along with their prices.
+Functionality:
+Fetches and displays a list of properties from a data source (e.g., a JSON).
+Each property listing includes details such as title, price, description, and possibly images.
+Styling: Leverages Bootstrap cards or grids to present the properties in a visually appealing manner.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Contact Page (Contact.js):
+Purpose: Allows users to get in touch with the company through a contact form.
+Functionality:
+Includes input fields for name, email, and message.
+Implements form validation to ensure all fields are correctly filled out before submission.
+Displays error messages for invalid input and success messages upon successful submission.
+Styling: Uses Bootstrap form components to ensure the form is user-friendly and accessible.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Technology Details
+React.js:
+Component-Based Architecture: Each page (Home, About, Property, Contact) is built as a separate React component, promoting reusability and modularity.
+Routing: React Router can be used to handle navigation between different pages.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Bootstrap:
+Responsive Design: Ensures the application looks good on all devices, from mobile phones to desktop computers.
+Pre-styled Components: Provides a variety of pre-styled components (e.g., forms, cards, grids) that can be easily integrated into the React components.
+Customization: Allows for customization of styles through Bootstrap’s utility classes and custom CSS.
