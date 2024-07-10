@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/HomeQuest/static/css/main.118decc0.css",
+    "main.js": "/HomeQuest/static/js/main.7684a220.js",
+    "static/js/453.1f494c26.chunk.js": "/HomeQuest/static/js/453.1f494c26.chunk.js",
+    "static/media/img1.jpeg": "/HomeQuest/static/media/img1.c48d619385af7edc7c81.jpeg",
+    "static/media/p5.jpg": "/HomeQuest/static/media/p5.f058c0d8133ba14786eb.jpg",
+    "static/media/p4.avif": "/HomeQuest/static/media/p4.1a406e5e60fe4ffcd757.avif",
+    "static/media/p2.jpg": "/HomeQuest/static/media/p2.081bdeb6bfdddf410934.jpg",
+    "static/media/member3.jpg": "/HomeQuest/static/media/member3.227ccafce6d114ffc585.jpg",
+    "static/media/header.jpg": "/HomeQuest/static/media/header.2a9630fd8534362c0c9e.jpg",
+    "static/media/member1.webp": "/HomeQuest/static/media/member1.560c56878819a8dc068d.webp",
+    "static/media/member4.webp": "/HomeQuest/static/media/member4.63f38403a7fb56b674f8.webp",
+    "static/media/p1.jpeg": "/HomeQuest/static/media/p1.59d22840dceb23a6a115.jpeg",
+    "static/media/bootstrap-icons.woff?": "/HomeQuest/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/HomeQuest/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/member6.jpg": "/HomeQuest/static/media/member6.aad17df3fbe18ddd43b6.jpg",
+    "static/media/about.jpg": "/HomeQuest/static/media/about.abe8c4fdca8567a39a0c.jpg",
+    "static/media/p6.jpeg": "/HomeQuest/static/media/p6.3da7566a3410e6c8ec73.jpeg",
+    "static/media/member2.jpeg": "/HomeQuest/static/media/member2.54ab23b60af367fe556b.jpeg",
+    "static/media/p3.jpeg": "/HomeQuest/static/media/p3.0f5825bb9de9819bff3b.jpeg",
+    "static/media/p7.jpeg": "/HomeQuest/static/media/p7.4cdda669467cd70d0c4a.jpeg",
+    "index.html": "/HomeQuest/index.html",
+    "main.118decc0.css.map": "/HomeQuest/static/css/main.118decc0.css.map",
+    "main.7684a220.js.map": "/HomeQuest/static/js/main.7684a220.js.map",
+    "453.1f494c26.chunk.js.map": "/HomeQuest/static/js/453.1f494c26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118decc0.css",
+    "static/js/main.7684a220.js"
+  ]
+}
