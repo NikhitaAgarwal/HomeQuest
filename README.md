@@ -48,11 +48,12 @@ Customization: Allows for customization of styles through Bootstrap’s utility 
 
 ![Screenshot (197)](https://github.com/NikhitaAgarwal/HomeQuest/assets/96190789/275a2090-ff8c-441b-a6fb-b8a37895d439)
 
-![Uploading Screenshot (195).png…]()
+![Screenshot (195)](https://github.com/NikhitaAgarwal/HomeQuest/assets/96190789/33787bc6-8388-4bac-abb6-d439d9bd88b5)
 
-![Uploading Screenshot (196).png…]()
+![Screenshot (196)](https://github.com/NikhitaAgarwal/HomeQuest/assets/96190789/57f51346-c3fb-4f94-9586-b8c35f52549f)
 
-![Uploading Screenshot (197).png…]()
+![Screenshot (197)](https://github.com/NikhitaAgarwal/HomeQuest/assets/96190789/275a2090-ff8c-441b-a6fb-b8a37895d439)
+
 
 
 
