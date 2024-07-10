@@ -46,7 +46,6 @@ Responsive Design: Ensures the application looks good on all devices, from mobil
 Pre-styled Components: Provides a variety of pre-styled components (e.g., forms, cards, grids) that can be easily integrated into the React components.
 Customization: Allows for customization of styles through Bootstrap’s utility classes and custom CSS.
 
-![Screenshot (197)](https://github.com/NikhitaAgarwal/HomeQuest/assets/96190789/275a2090-ff8c-441b-a6fb-b8a37895d439)
 
 ![Screenshot (195)](https://github.com/NikhitaAgarwal/HomeQuest/assets/96190789/33787bc6-8388-4bac-abb6-d439d9bd88b5)
 
